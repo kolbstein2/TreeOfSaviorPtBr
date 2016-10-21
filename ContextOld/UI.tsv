@@ -990,7 +990,7 @@ UI_20150317_000989	{@st59}Arqueiro{/}
 UI_20150317_000990	{@st59}Clérigo{/}
 UI_20150317_000991	{@St41b}Visit Barrack {/}
 UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}
-UI_20150317_000993	{@St41b}Logout{/}
+UI_20150317_000993	{@St41b}Desconectar{/}
 UI_20150317_000994	{@St59}Volta para a tela de login.{/}
 UI_20150317_000995	{@St41b}Sair do Jogo{/}
 UI_20150317_000996	{@St59}Fecha o Tree of Savior.{/}
@@ -2166,7 +2166,7 @@ UI_20160323_002165	{@st42}Available Titles{/}
 UI_20160323_002166	Informações do Time
 UI_20160323_002167	{@st66b}Mudar a Sede{/}
 UI_20160323_002168	{@st43}{s26}Time Nv.%s{/}
-UI_20160323_002169	{@st66b}Info do Time
+UI_20160323_002169	{@st66b}Informações do Time
 UI_20160323_002170	{#2c140c}Average Level : %s{/}
 UI_20160323_002171	{@st41b}Join
 UI_20160323_002172	{@st42} Character Greetings{/}
